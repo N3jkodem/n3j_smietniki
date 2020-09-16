@@ -18,7 +18,7 @@ The script runs on the ESX framework
 # Installation
 Add to folder: 'resources'
 Execute SQL : 'emptybottleitem.sql'
-Write: "ensure n3j_pizza or start n3j_pizza in your server.cfg
+Write: "ensure n3j_smietniki or start n3j_smietniki in your server.cfg
 
 
 # AUTHOR
